@@ -1,0 +1,72 @@
+CRITICAL - 2021-05-03 07:34:16 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:38 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:39 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:39 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:39 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:39 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:35:40 --> Invalid file: index.php
+#0 D:\wamp64\www\Pedul\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('index')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-03 07:42:01 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 D:\wamp64\www\Pedul\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\Pedul\system\Common.php(1250): CodeIgniter\View\View->render('welcome', Array, true)
+#2 D:\wamp64\www\Pedul\app\Controllers\Home.php(9): view('welcome')
+#3 D:\wamp64\www\Pedul\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#4 D:\wamp64\www\Pedul\system\CodeIgniter.php(437): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\wamp64\www\Pedul\system\CodeIgniter.php(337): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\Pedul\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 {main}
